@@ -1,4 +1,4 @@
 # aryan-demo
 This is my first git repository.
 <br>
-Author - Aryan Thakur
+Author - Aryan Thakur(JECRC)
